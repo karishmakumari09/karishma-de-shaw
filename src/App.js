@@ -6,7 +6,7 @@ import CardTabs from './components/CardTabs';
 const App = () => {
   return (
     <div>
-      <CardTabs />
+      <CardTabs/>
     </div>
   );
 };

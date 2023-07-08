@@ -13,7 +13,7 @@ const CardTabs = () => {
   //   onClick={() => handleTabChange('your')}> Your</div>
   return (
     <div>
-     <nav className='nav-bar'>
+     <nav className='nav-bar' >
           <button
           className={activeTab === 'your' ? 'active' : ''} nav-btn
           style={{border:'none',backgroundColor:'white',fontSize: '15px',marginRight:'2%'}}

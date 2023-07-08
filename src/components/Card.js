@@ -60,7 +60,7 @@ const Card = (props) => {
 
          
         </div>
-        </div>
+        </div >
 
       </div>
       <div className='card-spent row'>

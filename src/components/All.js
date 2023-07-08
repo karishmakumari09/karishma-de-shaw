@@ -22,7 +22,7 @@ const All = () => {
 
               
 
-            </div>
+            </div >
             <div className="cards-grid">
         
               {mock.data.map((data1) => (
